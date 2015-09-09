@@ -1,0 +1,7 @@
+public class Student {
+	private String name;
+	private int ssn;
+	private int numOfCourses;
+	private Date birthDate;
+	char gender; // not sure which access modifier should be used?? 
+}
